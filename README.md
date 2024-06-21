@@ -1,5 +1,5 @@
 # DelphiMethodandIFANP
-This project is used to provide supplementary materials (Advanced Engineering Informatics, ADVEI-D-24-00744R1) for reviewers to review.
+This project is used to provide supplementary materials (Advanced Engineering Informatics, ADVEI-D-24-00744R2) for reviewers to review.
 ## Copyright Notice
 
 © 2024 [Jiwei Yao]
